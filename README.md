@@ -1,4 +1,4 @@
 # whatsapp-chat-analyzer
 
 
-https://github.com/MostlyEngineer/whatsapp-chat-analyzer.git
+https://whatsapp-chat-analyzer-by-sby.herokuapp.com/
